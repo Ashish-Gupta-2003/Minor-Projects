@@ -1,4 +1,3 @@
-# Minor Projects
 
 ## [Reducing Cache Conflict Misses (ChampSim)](https://github.com/Ashish-Gupta-2003/Reducing-Cache-Conflict-Misses-ChampSim-)
 Classified cache sets by access/eviction counts and applied targeted policies, cutting last-level cache (LLC) conflict misses by 7%, improving throughput, and ranking the team in the top 1%.

@@ -1,5 +1,8 @@
 # Minor Projects
 
+## [Reducing Cache Conflict Misses (ChampSim)](https://github.com/Ashish-Gupta-2003/Reducing-Cache-Conflict-Misses-ChampSim-)
+Classified cache sets by access/eviction counts and applied targeted policies, cutting last-level cache (LLC) conflict misses by 7%, improving throughput, and ranking the team in the top 1%.
+
 ## [Songify-Music Player](https://github.com/Ashish-Gupta-2003/Music-Player-Songify)
 Developed a frontend music player using HTML, CSS, and JavaScript, featuring play/pause functionality, and the ability to toggle to next/previous tracks.
 
